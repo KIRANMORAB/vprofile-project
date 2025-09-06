@@ -3,6 +3,13 @@
 A **Dockerized, three-tier web application** for profile management—combining **MySQL** (database), **Tomcat** (application server), and **Nginx** (web server) using **Docker Compose**.
 
 ---
+A **Dockerized, three-tier web application** for profile management—combining **MySQL** (database), **Tomcat** (application server), and **Nginx** (web server) using **Docker Compose**.
+
+## 🎥 Demo Video
+
+Watch the vProfile Project Docker Compose demo here:  
+[![vProfile Demo Video](https://img.youtube.com/vi/vP8O6NOU0h4/0.jpg)](https://youtu.be/vP8O6NOU0h4?si=d-LQSNr2RNY-NsPE)
+
 
 ## 🚀 Features
 
